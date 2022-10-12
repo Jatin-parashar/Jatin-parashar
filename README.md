@@ -35,7 +35,7 @@ Hi, I'm Jatin Parashar!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and have interest in DSA
+💻 I have good interest in DSA and I like learning new skills
 📚 I am currently pursuing Bachelors in Technology from Guru Tegh Bahadur Institute of Technology
 🌟 Main languages: C/C++, Javascript
 </pre>
